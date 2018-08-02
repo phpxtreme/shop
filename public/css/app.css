@@ -2331,14 +2331,8 @@
   overflow: visible;
   clip: auto;
 }
-header {
-  margin-bottom: 4rem;
-}
-
-@media (min-width: 992px) {
-  header {
-    padding: 156px 0 100px;
-  }
+body {
+  padding-top: 3.5rem;
 }
 
 /*!
