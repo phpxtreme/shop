@@ -27,18 +27,6 @@
                         <a class="nav-link" href="#">About</a>
                     </li>
                 </ul>
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">
-                            <i class="fa fa-search"></i>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">
-                            <i class="fa fa-shopping-cart"></i>
-                        </a>
-                    </li>
-                </ul>
             </div>
         </div>
     </nav>
